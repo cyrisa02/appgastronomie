@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appgastronomie/static/css/main.51adad21.chunk.css",
+    "main.js": "/appgastronomie/static/js/main.ce5a36a0.chunk.js",
+    "main.js.map": "/appgastronomie/static/js/main.ce5a36a0.chunk.js.map",
+    "runtime-main.js": "/appgastronomie/static/js/runtime-main.4a3062fb.js",
+    "runtime-main.js.map": "/appgastronomie/static/js/runtime-main.4a3062fb.js.map",
+    "static/js/2.a2461b66.chunk.js": "/appgastronomie/static/js/2.a2461b66.chunk.js",
+    "static/js/2.a2461b66.chunk.js.map": "/appgastronomie/static/js/2.a2461b66.chunk.js.map",
+    "index.html": "/appgastronomie/index.html",
+    "precache-manifest.e0cda2d592f4a0e65cde457ea856a075.js": "/appgastronomie/precache-manifest.e0cda2d592f4a0e65cde457ea856a075.js",
+    "service-worker.js": "/appgastronomie/service-worker.js",
+    "static/css/main.51adad21.chunk.css.map": "/appgastronomie/static/css/main.51adad21.chunk.css.map",
+    "static/js/2.a2461b66.chunk.js.LICENSE.txt": "/appgastronomie/static/js/2.a2461b66.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/appgastronomie/static/media/tartef.cc5b8f57.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a3062fb.js",
+    "static/js/2.a2461b66.chunk.js",
+    "static/css/main.51adad21.chunk.css",
+    "static/js/main.ce5a36a0.chunk.js"
+  ]
+}
